@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ace18a28-f392-4497-885d-4ffc7be74e53" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1WhkgFb42zHgJazsFXDvOcanhGt" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace18a28-f392-4497-885d-4ffc7be74e53" name="Default Changelist" comment="" />
+      <created>1579609773187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579609773187</updated>
+      <workItem from="1579609774300" duration="289000" />
+      <workItem from="1579610640647" duration="171000" />
+      <workItem from="1579611243676" duration="34000" />
+      <workItem from="1579611278951" duration="1744000" />
+      <workItem from="1579613047376" duration="1792000" />
+      <workItem from="1579614868239" duration="1791000" />
+      <workItem from="1579616681387" duration="1793000" />
+      <workItem from="1579618498872" duration="1249000" />
+      <workItem from="1579620311235" duration="1786000" />
+      <workItem from="1579622123205" duration="928000" />
+      <workItem from="1579624989644" duration="1789000" />
+      <workItem from="1579626841682" duration="1790000" />
+      <workItem from="1579628657338" duration="1794000" />
+      <workItem from="1579630490454" duration="672000" />
+      <workItem from="1579637785367" duration="1793000" />
+      <workItem from="1579639604357" duration="1786000" />
+      <workItem from="1579641419363" duration="1783000" />
+      <workItem from="1579643232129" duration="1025000" />
+      <workItem from="1579676490687" duration="1497000" />
+      <workItem from="1579678640588" duration="2166000" />
+      <workItem from="1579680864335" duration="1789000" />
+      <workItem from="1579682730858" duration="1509000" />
+      <workItem from="1579691708472" duration="1794000" />
+      <workItem from="1579693531230" duration="1691000" />
+      <workItem from="1579695341569" duration="1861000" />
+      <workItem from="1579697228088" duration="262000" />
+      <workItem from="1579713928885" duration="1789000" />
+      <workItem from="1579715752231" duration="1578000" />
+      <workItem from="1579770085933" duration="1779000" />
+      <workItem from="1579771939240" duration="1786000" />
+      <workItem from="1579773787671" duration="1806000" />
+      <workItem from="1579775619737" duration="1795000" />
+      <workItem from="1579777442189" duration="1745000" />
+      <workItem from="1579779805238" duration="672000" />
+      <workItem from="1579819658778" duration="1813000" />
+      <workItem from="1579853211841" duration="1594000" />
+      <workItem from="1579860638901" duration="1874000" />
+      <workItem from="1579863260326" duration="1812000" />
+      <workItem from="1579865226181" duration="1635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/js/main.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

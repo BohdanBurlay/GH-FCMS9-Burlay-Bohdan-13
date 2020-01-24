@@ -1,0 +1,25 @@
+.sign-button {
+  @include submitButton;
+}
+
+.sign-form {
+  @include formMixin;
+}
+
+.sign-in-warning {
+  @include warningMassage;
+  left: 98px;
+  top: -51px;
+}
+
+.arrow {
+  @include warningArrow;
+  border: 17px solid transparent;
+  border-top: 20px solid red;
+  top: 30px;
+  left: 76px;
+}
+
+.name-input-css {
+  left: 71px;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+<h1 class="main-title">Sign In</h1>
+<form action="submit.php" method="post" enctype="multipart/form-data" name="sign-form" id="sign-form" class="sign-form">
+    <ul class="form-ul d-flex justify-content-between">
+        <li class="name-input"><label for="userControlName">User name <input type="text" name="userControlName" id="userControlName" class="sign-inputs"></label></li>
+        <li><label for="userControlPassword">User password <input type="password" name="userControlPassword" id="userControlPassword" class="sign-inputs"></label></li>
+    </ul>
+    <input type="hidden" name="sign-in" value="sign-in">
+    <button class="btn btn-success sign-button">Sign in</button>
+</form>
+<script src="assets/js/libs.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>

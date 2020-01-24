@@ -1,0 +1,28 @@
+@mixin formMixin{
+  max-width: 600px;
+  margin: 5% auto;
+}
+@mixin submitButton{
+  display: block;
+  margin: 0 auto;
+}
+@mixin warningMassage{
+  position: absolute;
+  top: 0;
+  left: 418px;
+  width: 200px;
+  height: 30px;
+  line-height: 30px;
+  background-color: red;
+  text-align: center;
+  &>p{
+    color: white;
+  }
+}
+@mixin warningArrow{
+  position: absolute;
+  top: 0;
+  left: -35px;
+  border: 15px solid transparent;
+  border-right: 20px solid red;
+}

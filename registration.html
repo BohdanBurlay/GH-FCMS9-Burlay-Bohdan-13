@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+<h1 class="main-title">Registration</h1>
+<form action="submit.php" method="post" enctype="multipart/form-data" id="registration-form" class="user-form">
+    <ul class="form-ul">
+        <li><label for="Username" class="label-items">Your name <input type="text" name="Username" id="Username" placeholder="Username" class="string-input"></label></li>
+        <li><label for="Useremail" class="label-items">Your email <input type="text" name="Useremail" id="Useremail" placeholder="Email" class="string-input"></label></li>
+        <li><label for="Userpassword" class="label-items">Your password <input type="password" name="Userpassword" id="Userpassword" placeholder="Password" class="string-input"></label></li>
+        <li><label for="UserpasswordAgain" class="label-items">Repeat password <input type="password" name="UserpasswordAgain" id="UserpasswordAgain" placeholder="Repeat password" class="string-input"></label></li>
+        <li><label for="UserFirstName" class="label-items">Your first name <input type="text" name="UserFirstName" id="UserFirstName" placeholder="First Name" class="string-input"></label></li>
+        <li><label for="UserLastName" class="label-items">Your last name <input type="text" name="UserLastName" id="UserLastName" placeholder="Last Name" class="string-input"></label></li>
+        <li><label for="UserAge" class="label-items">Your age <input type="text" name="UserAge" id="UserAge" placeholder="Your age" class="string-input"></label></li>
+        <li class="unique-li">
+            <label for="male" class="usual-block">Mail <input type="checkbox" name="male" id="male" value="male" class="gender"></label>
+            <label for="male" class="check-box-label">Femail <input type="checkbox" name="femail" id="female" value="female" class="gender"></label>
+        </li>
+        <input type="hidden" name="registration" value="registration">
+    </ul>
+    <button class="btn btn-success submit-button">Submit</button>
+</form>
+<script src="assets/js/libs.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
